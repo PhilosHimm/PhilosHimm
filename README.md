@@ -17,9 +17,9 @@ Building at the intersection of design, data, and AI - currently a UX Designer C
 
 ### 🎯 About Me
 
-I'm a 4th-year Business Technology Management co-op student at Toronto Metropolitan University, drawn to how tech, data, and AI can create smoother, smarter digital experiences.
+I'm a 5th-year Business Technology Management co-op student at Toronto Metropolitan University, drawn to how tech, data, and AI can create smoother, smarter digital experiences.
 
-- 🏥 **Currently:** UX Designer Co-op at **PointClickCare** (Mississauga) - contributing to enterprise design system work, translating complex healthcare workflows into clean, accessible interfaces, and collaborating cross-functionally with engineers, PMs, and senior designers in an agile environment
+- 🏥 **Currently:** UX Designer Co-op at **PointClickCare** (Toronto) - contributing to enterprise design system work, translating complex healthcare workflows into clean, accessible interfaces, and collaborating cross-functionally with engineers, PMs, and senior designers in an agile environment
 - 📈 **Also building:** Internal documentation, roadmap, and planning infrastructure for the **Tech Team @ TRAIC** (Ted Rogers Alternative Investments Club)
 - 🧠 **AI-first workflow:** Using Claude and Gemini as everyday productivity multipliers - from agentic coding to research and career planning
 - 🎓 **Background:** Prior co-op improving provincial digital services at the Ontario Public Service, and streamlining procurement/data workflows at The Salvation Army
